@@ -1,1 +1,1 @@
-console.log(process.env.RESEND_KEY);
+console.log(Bun.env.RESEND_KEY);
